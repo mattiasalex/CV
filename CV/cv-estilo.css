@@ -1,0 +1,176 @@
+
+body{
+margin:0;
+padding: 0;
+background: #212922;
+font-family: 'Roboto', sans-serif;
+}
+.infopersonal {
+width: 100;
+height: 300px;
+background: #294936;
+}
+.infopersonal .img{
+  position: absolute;
+  top: 18%;
+  right: 5%;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.infopersonal .contenedor {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  left: 15%;
+}
+.infopersonal .contenedor .nombre {
+color: #AEF6C7;
+font-weight: bolder;
+font-size: 65px;
+margin-bottom: 0;
+}
+  .infopersonal .contenedor .edad {
+    color: #AEF6C7;
+font-size: 30px;
+margin-top: 0;
+margin-bottom: 0;
+}
+.infopersonal .contenedor .nacionalidad {
+  color: #AEF6C7;
+font-size: 25px;
+margin-bottom: 0;
+}
+.infopersonal .contenedor .email {
+  color: #AEF6C7;
+font-size: 20px;
+margin-top: 0;
+margin-bottom: 0;
+}  
+.infoseccion {
+  width: 90%;
+  height: auto;
+  background:#294936 ;
+  margin: 5% auto;
+  padding: 5%;
+  border-radius: 20px;
+}
+.infoseccion .tituloseccion {
+color: #AEF6C7;
+font-family: 'Roboto', sans-serif;
+font-size: xx-large;
+text-align: center;
+font-weight: bolder;
+border-bottom: 5px #c4ddcb solid;
+}
+.infoseccion .titulonombreyapellido {
+  color: #c4ddcb;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bolder;
+  font-size: large;
+  display: inline;
+  margin-right: 20px;
+}
+.infoseccion .nombreyapellido {
+  color: #AEF6C7;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: large;
+  display: inline;
+}
+.infoseccion .titulofechadenacimineto {
+  color: #c4ddcb;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bolder;
+  font-size: large;
+  display: inline;
+  margin-right: 20px;
+  }
+  .infoseccion .fechadenacimiento {
+    color: #AEF6C7;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:inline;
+    }
+    .infoseccion .titulonacionalidad {
+      color: #c4ddcb;
+      font-family: 'Roboto', sans-serif;
+      font-weight: bolder;
+      font-size: large;
+      display: inline;
+      margin-right: 20px;
+      }
+      .infoseccion .nacionalidad {
+        color: #AEF6C7;
+        font-family: 'Roboto', sans-serif;
+        font-weight: normal;
+        font-size: large;
+        display:inline;
+        }
+        .infoseccion .titulotelcel {
+          color: #c4ddcb;
+          font-family: 'Roboto', sans-serif;
+          font-weight: bolder;
+          font-size: large;
+          display: inline;
+          margin-right: 20px;
+          }
+          .infoseccion .telcel {
+            color: #AEF6C7;
+            font-family: 'Roboto', sans-serif;
+            font-weight: normal;
+            font-size: large;
+            display:inline;
+            }
+            .infoseccion .tituloemail {
+              color: #c4ddcb;
+              font-family: 'Roboto', sans-serif;
+              font-weight: bolder;
+              font-size: large;
+              display: inline;
+              margin-right: 20px;
+              }
+              .infoseccion .email {
+                color: #AEF6C7;
+                font-family: 'Roboto', sans-serif;
+                font-weight: normal;
+                font-size: large;
+                display:inline;
+                }
+                .infoseccion .tituloexperiencias {
+                  color: #AEF6C7;
+                  font-family: 'Roboto', sans-serif;
+                  font-size: xx-large;
+                  text-align: center;
+                  font-weight: bolder;
+                  border-bottom: 5px #c4ddcb solid;
+                  }
+                  .infoseccion .Experiencias {
+                    color: #AEF6C7;
+                    font-family: 'Roboto', sans-serif;
+                    font-weight: normal;
+                    font-size: large;
+                    display: inline;
+                    }
+                    .infoseccion .titulohabilidades {
+                      color: #AEF6C7;
+                      font-family: 'Roboto', sans-serif;
+                      font-size: xx-large;
+                      text-align: center;
+                      font-weight: bolder;
+                      border-bottom: 5px #c4ddcb solid;
+                      }
+                      .infoseccion .Habilidades {
+                        color: #AEF6C7;
+                        font-family: 'Roboto', sans-serif;
+                        font-weight: normal;
+                        font-size: large;
+                        display: inline;
+                        }
+
+
+
+
